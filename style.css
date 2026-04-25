@@ -549,3 +549,8 @@ footer {
 .model-card {
   cursor: pointer;
 }
+
+.logo img {
+  height: 70px;
+  width: auto;
+}
